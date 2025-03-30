@@ -3,8 +3,6 @@
 **Contributors:** Adam Crespi, Lucas Berretta  
 **Sponsor:** Dominic Liao-McPherson, UBC Engineering Physics  
 **Start Date:** April 27, 2025  
-**End Date:** August 31, 2025
-
 ---
 
 ## 📘 Project Overview
@@ -36,17 +34,6 @@ This project explores equilibrium behavior in economic and engineering systems, 
 
 ---
 
-## 🗓️ Project Timeline
-
-| Month     | Milestone                        |
-|-----------|----------------------------------|
-| May       | Background research              |
-| June      | Static equilibrium modeling      |
-| July      | Game-theoretic simulation        |
-| August    | Stretch goals + final report     |
-
----
-
 ## 📦 Deliverables
 
 - 🗂️ Organized GitHub repository with clean commit history  
@@ -54,9 +41,3 @@ This project explores equilibrium behavior in economic and engineering systems, 
 - 📊 PowerPoint slides summarizing key results  
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
